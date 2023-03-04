@@ -1,0 +1,17 @@
+{
+  "author": "viclai",
+  "background": {
+    "service_worker": "service_worker.js"
+  },
+  "chrome_url_overrides": {
+    "newtab": "new_tab.html"
+  },
+  "description": "A Chrome extension",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAowf9O6pjacbo/fsaL8KHBOOixrjwyO1bMH+5xAtSLS+AN8+0EGUJn7daS0GtkiGalkgCijgJrK9zeoSGtxMZTFwclzVjgjM7VZoU/+40WHrtMLNWBkjAXgwoGcVN1/jS0TGqizvoBD0e48jEn5P4wImmC6m87u5GZ+/XM6pGd1p3/xlI2tKHGXtlNpX11PVP3LmiX3THtO8eLA44eC7da/EWRpGeiBoA3Rvb906v6XllT3D9WfqX9QyDmg/esTlrRW6XNzRwdbgeMH4YpcXVlRQZYJ2K4fi6aIv9UxjqAg59irfiPqv1BDa0g3WUey4HjdzAF406kOQ+wWoUMlGw6wIDAQAB",
+  "manifest_version": 3,
+  "name": "vanilla french fries",
+  "permissions": [
+    "storage"
+  ],
+  "version": "0.0.1"
+}
